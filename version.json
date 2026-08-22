@@ -1,5 +1,7 @@
 {
   "version": "2.22.0.0",
-  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.0/wenhan_v2.22.0.0_setup.zip",
-  "note": "v2.22：新增「更新建议」功能。"
+  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.0/wenhan_v2.22.0.0_setup.exe",
+  "manualUrl": "https://wware.lanzoub.com/iNvx0440o29e",
+  "manualPwd": "6ojr",
+  "note": "v2.22：更新内容不告诉你。"
 }
