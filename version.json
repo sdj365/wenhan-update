@@ -1,7 +1,7 @@
 {
   "version": "2.22.0.2",
   "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.2/wenhan_v2.22.0.2_setup.exe",
-  "manualUrl": "https://wware.lanzoub.com/iLPxl440xeef",
-  "manualPwd": "dvzb",
+  "manualUrl": "https://wware.lanzoub.com/iwVrL4417wji",
+  "manualPwd": "5mgb",
   "note": "v2.22.0.2：新增 Releases API 兜底源，自动更新不再依赖 version.json 文件树缓存。\n备用下载（蓝奏云）提取码：dvzb"
 }
