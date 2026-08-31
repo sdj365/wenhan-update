@@ -1,7 +1,7 @@
 {
-  "version": "2.22.0.2",
-  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.2/wenhan_v2.22.0.2_setup.exe",
-  "manualUrl": "https://wware.lanzoub.com/iwVrL4417wji",
-  "manualPwd": "5mgb",
-  "note": "v2.22.0.2：新增 Releases API 兜底源，自动更新不再依赖 version.json 文件树缓存。\n备用下载（蓝奏云）提取码：dvzb"
+  "version": "2.22.0.6",
+  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.6/wenhan_v2.22.0.6_setup.exe",
+  "manualUrl": "https://wware.lanzoub.com/iLPxl440xeef",
+  "manualPwd": "dvzb",
+  "note": "v2.22.0.6：新增——①软件级通用附件库（%APPDATA%\\文翰自成\\附件库，跨项目通用，不再随项目保存，打开其他项目仍可用）；②菜单重组为 文件｜生成｜导出｜附件库｜帮助；③估价师承诺函通用化（补「委托单位」占位符，生成后入库可跨项目复用）；④附件上传不再触发“保存项目”弹窗；⑤打开旧项目时自动提示迁移内嵌附件到通用库。\n备用下载（蓝奏云）提取码：dvzb"
 }
