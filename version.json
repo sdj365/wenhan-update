@@ -1,7 +1,7 @@
 {
-  "version": "2.22.0.6",
-  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.6/wenhan_v2.22.0.6_setup.exe",
+  "version": "2.22.0.9",
+  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.9/wenhan_v2.22.0.9_setup.exe",
   "manualUrl": "https://wware.lanzoub.com/iLPxl440xeef",
   "manualPwd": "dvzb",
-  "note": "v2.22.0.6：新增——①软件级通用附件库（%APPDATA%\\文翰自成\\附件库，跨项目通用，不再随项目保存，打开其他项目仍可用）；②菜单重组为 文件｜生成｜导出｜附件库｜帮助；③估价师承诺函通用化（补「委托单位」占位符，生成后入库可跨项目复用）；④附件上传不再触发“保存项目”弹窗；⑤打开旧项目时自动提示迁移内嵌附件到通用库。\n备用下载（蓝奏云）提取码：dvzb"
+  "note": "v2.22.0.9：工具栏按钮圆角边框修复（采用双层填充绘制，四边四角完整显示，彻底解决此前缺角、下/右边框缺失问题）；生成菜单重构为「底稿 / 附件」三级结构；批注列表列宽改为内容自适应（超长文本自动换行，不再撑爆其他列）；左面板「已打开」状态改用绿点状态指示，与工具栏悬停蓝色明确区分；全局强调色统一为商务蓝 #2F6BFF。\n备用下载（蓝奏云）提取码：dvzb"
 }
