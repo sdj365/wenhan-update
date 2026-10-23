@@ -1,7 +1,5 @@
 {
-  "version": "2.22.0.9",
-  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.9/wenhan_v2.22.0.9_setup.exe",
-  "manualUrl": "https://wware.lanzoub.com/iLPxl440xeef",
-  "manualPwd": "dvzb",
-  "note": "v2.22.0.9：工具栏按钮圆角边框修复（采用双层填充绘制，四边四角完整显示，彻底解决此前缺角、下/右边框缺失问题）；生成菜单重构为「底稿 / 附件」三级结构；批注列表列宽改为内容自适应（超长文本自动换行，不再撑爆其他列）；左面板「已打开」状态改用绿点状态指示，与工具栏悬停蓝色明确区分；全局强调色统一为商务蓝 #2F6BFF。\n备用下载（蓝奏云）提取码：dvzb"
+  "version": "2.22.0.11",
+  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.11/wenhan_v2.22.0.11_setup.exe",
+  "note": "v2.22.0.11：本版更新说明（自动更新弹窗、Excel 修复等）"
 }
