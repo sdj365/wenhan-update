@@ -1,5 +1,5 @@
 {
-  "version": "2.22.0.17",
+  "version": "v2.22.0.17",
   "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.17/wenhan_v2.22.0.17_setup.exe",
   "note": "v2.22.0.17：\n1. 更换软件图标与文档 logo 为品牌兔子形象（蓝底方形、无水印），exe、安装包、桌面快捷方式、.sco 文件关联图标全链路同步。\n2. GitHub 展示文档校准：README 图标引用修复、自动更新按实际 6 源说明、设置入口统一为「接口设置」、补全更新日志。\n3. 本次为图标与文档更新，业务逻辑无变化。"
 }
