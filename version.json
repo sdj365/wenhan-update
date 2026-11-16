@@ -1,5 +1,5 @@
 {
-  "version": "v2.22.0.17",
-  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.17/wenhan_v2.22.0.17_setup.exe",
-  "note": "v2.22.0.17：\n1. 更换软件图标与文档 logo 为品牌兔子形象（蓝底方形、无水印），exe、安装包、桌面快捷方式、.sco 文件关联图标全链路同步。\n2. GitHub 展示文档校准：README 图标引用修复、自动更新按实际 6 源说明、设置入口统一为「接口设置」、补全更新日志。\n3. 本次为图标与文档更新，业务逻辑无变化。"
+  "version": "2.22.0.18",
+  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.18/wenhan_v2.22.0.18_setup.exe",
+  "note": "v2.22.0.18：\n1. 修复系统休眠恢复或长时间未操作后，WPS 表格窗口仍开着、但左侧「工作表」图标却显示「点击打开」的状态不同步问题：现自动识别并复用 WPS 中已打开的项目工作簿，无需重新点开，避免重复开窗。\n2. 本次无其它功能变更。"
 }
