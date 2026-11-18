@@ -1,5 +1,5 @@
 {
-  "version": "2.22.0.18",
-  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.18/wenhan_v2.22.0.18_setup.exe",
-  "note": "v2.22.0.18：\n1. 修复系统休眠恢复或长时间未操作后，WPS 表格窗口仍开着、但左侧「工作表」图标却显示「点击打开」的状态不同步问题：现自动识别并复用 WPS 中已打开的项目工作簿，无需重新点开，避免重复开窗。\n2. 本次无其它功能变更。"
+  "version": "2.22.0.19",
+  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.19/wenhan_v2.22.0.19_setup.exe",
+  "note": "v2.22.0.19：\n1. 修复打开项目的 Word 文档 / Excel 表格时窗口总是显示为小框的问题：WPS COM 回报的 WindowState 与实际屏幕窗口脱节，现改用 Win32 按真实框架窗口强制最大化，打开即全屏。\n2. 修复编辑工作表时无故弹出 WPS 保存对话框、取消后绿点消失且重开变只读的问题（工作表存活探测恢复为稳定实现）。\n3. 含上一版累积的稳定性与安全性优化。"
 }
