@@ -1,5 +1,5 @@
 {
-  "version": "2.22.0.19",
-  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.19/wenhan_v2.22.0.19_setup.exe",
-  "note": "v2.22.0.19：\n1. 修复打开项目的 Word 文档 / Excel 表格时窗口总是显示为小框的问题：WPS COM 回报的 WindowState 与实际屏幕窗口脱节，现改用 Win32 按真实框架窗口强制最大化，打开即全屏。\n2. 修复编辑工作表时无故弹出 WPS 保存对话框、取消后绿点消失且重开变只读的问题（工作表存活探测恢复为稳定实现）。\n3. 含上一版累积的稳定性与安全性优化。"
+  "version": "2.22.0.20",
+  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.20/wenhan_v2.22.0.20_setup.exe",
+  "note": "v2.22.0.20：\n1. 修复 v19 打开文档/表格后窗口最大化不完整的问题：新版 WPS 的真正顶层框架是 Chromium 窗口（Chrome_WidgetWin_1），此前只最大化了内部辅助窗口，导致状态栏底部（缩放滑块、全屏按钮）被任务栏裁掉约 8px。现优先对 WPS 的 Chromium 顶层框架执行标准最大化（按进程过滤，不影响浏览器），与手动点击最大化效果完全一致。\n2. 保留旧版 WPS（非 Chromium 框架）的兜底最大化逻辑。\n3. 含 v19 全部修复：小窗口、编辑弹保存框、更新界面美化等。"
 }
