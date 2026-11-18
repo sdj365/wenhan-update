@@ -1,4 +1,4 @@
-﻿# 文翰自成
+# 文翰自成
 
 <p align="center">
   <img src="AppIcon_preview.png" width="180" alt="文翰自成"/>
