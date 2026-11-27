@@ -1,5 +1,5 @@
 {
-  "version": "2.22.0.24",
-  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.24/wenhan_v2.22.0.24_setup.exe",
-  "note": "v2.22.0.24：\n1. 修复 WPS 页眉编辑状态下右键「选择性粘贴」导致文档被误判关闭：原逻辑把 WPS 模态框期间的「命令不可用/对象已断开」COM 异常当作文档已关闭，主动关闭弹「是否保存」，取消后绿点消失；现只有 WPS 进程真断开才判关闭，忙态异常保守认为仍打开，并加连续两次确认。\n2. 修复偶发「准备文档副本失败：访问被拒绝」：缓存目录改用 %LOCALAPPDATA%\\文翰自成\\缓存，失败退回 %TEMP%；不再使用被重定向到 F:\\Roaming 的 %APPDATA% 和程序目录（WPS 从这两处打开工作副本会报权限异常）。目录创建加重试与诊断信息。\n含 v23 全部功能。"
+  "version": "2.22.0.25",
+  "url": "https://github.com/sdj365/wenhan-update/releases/download/v2.22.0.25/wenhan_v2.22.0.25_setup.exe",
+  "note": "v2.22.0.25：\n修复 bug"
 }
